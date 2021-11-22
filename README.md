@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-It's Utkarsh Srivastava
+### It's Utkarsh Srivastava
 - 🔭 I’m currently working on Nagarro as Full Stack Developer.
-- 🌱 I’m currently learning Full Stack.
+- 🌱 I’m currently working on  Angular and Java.
 - 🤔 I’m looking for new opportunities.
