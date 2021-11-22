@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Nagarro as Full Stack Developer.
+- 🌱 I’m currently learning Full Stack.
+- 🤔 I’m looking for new opportunities.
