@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### It's Utkarsh Srivastava
-- 🔭 I’m currently working on Nagarro as Full Stack Developer.
+- 🔭 I’m currently working on Nagarro as a Full Stack Developer.
 - 🌱 I’m currently working on  Angular and Java.
 - 🤔 I’m looking for new opportunities.
